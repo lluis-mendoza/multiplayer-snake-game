@@ -27,7 +27,7 @@ body{
 }
 
 #cnvBackground{
-    background-color: #000;
+    background-color: rgb(59, 59, 59);
     z-index: 1;
 }
 

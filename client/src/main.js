@@ -1,5 +1,5 @@
-import MainController from './controllers/mainController.js';
+import ClientController from './controllers/clientController.js';
 
-const mainController = new MainController();
-mainController.run(io);
+const clientController = new ClientController();
+clientController.run(io);
 
